@@ -73,8 +73,8 @@
     },
     "chess_blitz": {
         "last": {
-            "rating": 3451,
-            "date": 1794939217,
+            "rating": 3454,
+            "date": 1794938417,
             "rd": 30
         },
         "best": {
@@ -85,7 +85,7 @@
         "record": {
             "win": 36242,
             "loss": 5571,
-            "draw": 4397
+            "draw": 4396
         }
     },
     "fide": 2814,
